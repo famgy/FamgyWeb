@@ -279,21 +279,21 @@
     test1().myLoad({
         imgdata:[
             // north
-            {img:'/imgs/spring/1.jpg', x:-1000, y:0, z:1500, nx:0, nz:1},
-            {img:'/imgs/spring/2.jpg', x:0,     y:0, z:1500, nx:0, nz:1},
-            {img:'/imgs/spring/3.jpg', x:1000,  y:0, z:1500, nx:0, nz:1},
+            {img:'../../imgs/spring/1.jpg', x:-1000, y:0, z:1500, nx:0, nz:1},
+            {img:'../../imgs/spring/2.jpg', x:0,     y:0, z:1500, nx:0, nz:1},
+            {img:'../../imgs/spring/3.jpg', x:1000,  y:0, z:1500, nx:0, nz:1},
             // east
-            {img:'/imgs/spring/4.jpg', x:1500,  y:0, z:1000, nx:-1, nz:0},
-            {img:'/imgs/spring/5.jpg', x:1500,  y:0, z:0, nx:-1, nz:0},
-            {img:'/imgs/spring/6.jpg', x:1500,  y:0, z:-1000, nx:-1, nz:0},
+            {img:'../../imgs/spring/4.jpg', x:1500,  y:0, z:1000, nx:-1, nz:0},
+            {img:'../../imgs/spring/5.jpg', x:1500,  y:0, z:0, nx:-1, nz:0},
+            {img:'../../imgs/spring/6.jpg', x:1500,  y:0, z:-1000, nx:-1, nz:0},
             // south
-            {img:'/imgs/spring/7.jpg', x:1000,  y:0, z:-1500, nx:0, nz:-1},
-            {img:'/imgs/spring/8.jpg', x:0,     y:0, z:-1500, nx:0, nz:-1},
-            {img:'/imgs/spring/9.jpg', x:-1000, y:0, z:-1500, nx:0, nz:-1},
+            {img:'../../imgs/spring/7.jpg', x:1000,  y:0, z:-1500, nx:0, nz:-1},
+            {img:'../../imgs/spring/8.jpg', x:0,     y:0, z:-1500, nx:0, nz:-1},
+            {img:'../../imgs/spring/9.jpg', x:-1000, y:0, z:-1500, nx:0, nz:-1},
             // west
-            {img:'/imgs/spring/10.jpg', x:-1500, y:0, z:-1000, nx:1, nz:0},
-            {img:'/imgs/spring/11.jpg', x:-1500, y:0, z:0, nx:1, nz:0},
-            {img:'/imgs/spring/12.jpg', x:-1500, y:0, z:1000, nx:1, nz:0}
+            {img:'../../imgs/spring/10.jpg', x:-1500, y:0, z:-1000, nx:1, nz:0},
+            {img:'../../imgs/spring/11.jpg', x:-1500, y:0, z:0, nx:1, nz:0},
+            {img:'../../imgs/spring/12.jpg', x:-1500, y:0, z:1000, nx:1, nz:0}
         ],
         structure:[
             {

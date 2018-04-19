@@ -12,7 +12,7 @@
 <head>
     <title>Famgy Image Grid Effects</title>
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="/css/fbase.css" />
+    <link rel="stylesheet" type="text/css" href="../../css/fbase.css" />
     <style>
 
         a {
@@ -42,37 +42,37 @@
 <div class="container" style="padding-top: 30px; padding-bottom: 30px">
     <div style="display: grid; grid-template-columns: repeat(1, 1fr); grid-gap: 10px">
         <div style="display: grid; grid-template-columns: repeat(4, 1fr); grid-gap: 10px">
-            <a href="/imgs/summer/original/1.jpg"><img class="photo_cover" src="/imgs/summer/thumbs/thumb-1.jpg" /></a>
-            <a href="/imgs/summer/original/2.jpg"><img class="photo_cover" src="/imgs/summer/thumbs/thumb-2.jpg" /></a>
-            <a href="/imgs/summer/original/4.jpg"><img class="photo_cover" src="/imgs/summer/thumbs/thumb-4.jpg" /></a>
-            <a href="/imgs/summer/original/12.jpg"><img class="photo_cover" src="/imgs/summer/thumbs/thumb-12.jpg" /></a>
+            <a href="../../imgs/summer/original/1.jpg"><img class="photo_cover" src="../../imgs/summer/thumbs/thumb-1.jpg" /></a>
+            <a href="../../imgs/summer/original/2.jpg"><img class="photo_cover" src="../../imgs/summer/thumbs/thumb-2.jpg" /></a>
+            <a href="../../imgs/summer/original/4.jpg"><img class="photo_cover" src="../../imgs/summer/thumbs/thumb-4.jpg" /></a>
+            <a href="../../imgs/summer/original/12.jpg"><img class="photo_cover" src="../../imgs/summer/thumbs/thumb-12.jpg" /></a>
         </div>
         <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px">
-            <a href="/imgs/summer/original/8.jpg"><img class="photo_cover" src="/imgs/summer/thumbs/thumb-8.jpg" /></a>
-            <a href="/imgs/summer/original/14.jpg"><img class="photo_cover" src="/imgs/summer/thumbs/thumb-14.jpg" /></a>
-            <a href="/imgs/summer/original/13.jpg"><img class="photo_cover" src="/imgs/summer/thumbs/thumb-13.jpg" /></a>
+            <a href="../../imgs/summer/original/8.jpg"><img class="photo_cover" src="../../imgs/summer/thumbs/thumb-8.jpg" /></a>
+            <a href="../../imgs/summer/original/14.jpg"><img class="photo_cover" src="../../imgs/summer/thumbs/thumb-14.jpg" /></a>
+            <a href="../../imgs/summer/original/13.jpg"><img class="photo_cover" src="../../imgs/summer/thumbs/thumb-13.jpg" /></a>
         </div>
         <div style="display: grid; grid-template-columns: repeat(4, 1fr); grid-gap: 10px">
-            <a href="/imgs/summer/original/7.jpg"><img class="photo_cover" src="/imgs/summer/thumbs/thumb-7.jpg" /></a>
-            <a href="/imgs/summer/original/6.jpg"><img class="photo_cover" src="/imgs/summer/thumbs/thumb-6.jpg" /></a>
-            <a href="/imgs/summer/original/10.jpg"><img class="photo_cover" src="/imgs/summer/thumbs/thumb-10.jpg" /></a>
-            <a href="/imgs/summer/original/12.jpg"><img class="photo_cover" src="/imgs/summer/thumbs/thumb-12.jpg" /></a>
+            <a href="../../imgs/summer/original/7.jpg"><img class="photo_cover" src="../../imgs/summer/thumbs/thumb-7.jpg" /></a>
+            <a href="../../imgs/summer/original/6.jpg"><img class="photo_cover" src="../../imgs/summer/thumbs/thumb-6.jpg" /></a>
+            <a href="../../imgs/summer/original/10.jpg"><img class="photo_cover" src="../../imgs/summer/thumbs/thumb-10.jpg" /></a>
+            <a href="../../imgs/summer/original/12.jpg"><img class="photo_cover" src="../../imgs/summer/thumbs/thumb-12.jpg" /></a>
 
         </div>
         <div style="display: grid; grid-template-columns: repeat(4, 1fr) ; grid-gap: 10px">
-            <a href="/imgs/summer/original/3.jpg"><img class="photo_cover" src="/imgs/summer/thumbs/thumb-3.jpg" /></a>
-            <a href="/imgs/summer/original/11.jpg"><img class="photo_cover" src="/imgs/summer/thumbs/thumb-11.jpg" /></a>
-            <a href="/imgs/summer/original/9.jpg"><img class="photo_cover" src="/imgs/summer/thumbs/thumb-9.jpg" /></a>
-            <a href="/imgs/summer/original/5.jpg"><img class="photo_cover" src="/imgs/summer/thumbs/thumb-5.jpg" /></a>
+            <a href="../../imgs/summer/original/3.jpg"><img class="photo_cover" src="../../imgs/summer/thumbs/thumb-3.jpg" /></a>
+            <a href="../../imgs/summer/original/11.jpg"><img class="photo_cover" src="../../imgs/summer/thumbs/thumb-11.jpg" /></a>
+            <a href="../../imgs/summer/original/9.jpg"><img class="photo_cover" src="../../imgs/summer/thumbs/thumb-9.jpg" /></a>
+            <a href="../../imgs/summer/original/5.jpg"><img class="photo_cover" src="../../imgs/summer/thumbs/thumb-5.jpg" /></a>
         </div>
     </div>
 </div>
 
 <!-- /container -->
-<script src="/js/summer/imagesloaded.pkgd.min.js"></script>
-<script src="/js/summer/masonry.pkgd.min.js"></script>
-<script src="/js/summer/classie.js"></script>
-<script src="/js/summer/main.js"></script>
+<script src="../../js/summer/imagesloaded.pkgd.min.js"></script>
+<script src="../../js/summer/masonry.pkgd.min.js"></script>
+<script src="../../js/summer/classie.js"></script>
+<script src="../../js/summer/main.js"></script>
 <script>
     (function() {
         // create SVG circle overlay and append it to the preview element
